@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">cengovski — Web3 tools and interactive experiments</title>
+<desc id="desc">A dark blue banner with a mint accent, introducing the cengovski developer portfolio.</desc>
+<rect width="1200" height="300" rx="24" fill="#0b1220"/>
+<path d="M860 0v300M960 0v300M1060 0v300M1160 0v300M800 70h400M800 170h400M800 270h400" stroke="#1e3045" stroke-width="2"/>
+<rect x="48" y="52" width="48" height="6" rx="3" fill="#65e3b5"/>
+<text x="48" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#f1f5f9">cengovski</text>
+<text x="48" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="27" fill="#b5c4d7">Web3 tools. Interactive experiments.</text>
+<text x="48" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#65e3b5">BUILD · DOCUMENT · IMPROVE</text>
+<path d="m925 108-42 42 42 42m105-84 42 42-42 42m-38-98-27 112" stroke="#65e3b5" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>
